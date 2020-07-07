@@ -12,7 +12,6 @@
         
     - 4.3 - [Target variable](#target_variable)
     - 4.4 - [Treating skewed features](#treating_skewed_features)
-
-6. **[Regression Model](#XGBoost)**
 1. **[[Splitting the Dataset](#)**
-2. **[Load data](#load_data)**
+6. **[Regression Model](#XGBoost)**
+
