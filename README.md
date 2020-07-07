@@ -1,7 +1,8 @@
 # Prediction-of-House-Price-
 ## Content
 
-1. **[Import packages](#import_packages)**
+1. **[Overview](#overview)**
+2. **[Import packages](#import_packages)**
 2. **[Load data](#load_data)**
 3. **[Data preparation](#data_preparation)**
     - 3.1 - [Remove outliers](#remove_outliers)
