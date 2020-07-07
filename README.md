@@ -15,4 +15,5 @@
 1. **[[Splitting the Dataset](#)**
 6. **[Regression Model](#XGBoost)**
 
-## Oerview :-
+## Overview :-
+ - This is basic regression based House Price prediction
