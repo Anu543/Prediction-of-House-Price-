@@ -14,3 +14,5 @@
     - 4.4 - [Treating skewed features](#treating_skewed_features)
 5. **[Splitting the Dataset](# Train_test_splitting)**
 6. **[Regression Model](# XGBoost)**
+1. **[Import packages](#import_packages)**
+2. **[Load data](#load_data)**
