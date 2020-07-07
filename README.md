@@ -13,4 +13,4 @@
     - 4.3 - [Target variable](#target_variable)
     - 4.4 - [Treating skewed features](#treating_skewed_features)
 5. **[Splitting the Dataset](# Train_test_splitting)**
-6. **[Reression Model](# XGBoost)**
+6. **[Regression Model](# XGBoost)**
