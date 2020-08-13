@@ -17,4 +17,4 @@
 6. **[Regression Model](#XGBoost)**
 
 ## Overview :-
- - This is basic regression based House Price prediction
+ - This is basic a regression based problem for House Price prediction
